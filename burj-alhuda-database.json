@@ -1,7 +1,7 @@
 {
   "version": "5.4",
   "schemaVersion": 3,
-  "timestamp": "2026-10-13T22:52:23.679Z",
+  "timestamp": "2026-10-13T23:11:10.052Z",
   "openingBalance": 0,
   "receipts": [
     {
@@ -172,7 +172,7 @@
   "monthClosures": [],
   "cashReconciliations": [],
   "sequences": {
-    "receipts": 1,
+    "receipts": 3,
     "disbursements": 0
   }
 }
