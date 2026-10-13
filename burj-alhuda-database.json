@@ -1,7 +1,7 @@
 {
-  "version": "5.4",
-  "schemaVersion": 3,
-  "timestamp": "2026-10-13T23:11:10.052Z",
+  "app": "Burj Al-Huda",
+  "schemaVersion": 4,
+  "exportedAt": "2026-10-13T23:42:42.208Z",
   "openingBalance": 0,
   "receipts": [
     {
@@ -70,6 +70,8 @@
       "name": "سمير الشافعي"
     }
   },
+  "projects": [],
+  "vendors": [],
   "auditLog": [
     {
       "id": "AUD_1791921089512_njovuw",
