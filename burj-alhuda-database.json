@@ -1,7 +1,7 @@
 {
   "app": "Burj Al-Huda",
   "schemaVersion": 4,
-  "exportedAt": "2026-10-14T00:44:10.742Z",
+  "exportedAt": "2026-10-14T00:45:22.617Z",
   "openingBalance": 0,
   "receipts": [
     {
@@ -174,7 +174,7 @@
   "monthClosures": [],
   "cashReconciliations": [],
   "sequences": {
-    "receipts": 8,
+    "receipts": 9,
     "disbursements": 0
   }
 }
